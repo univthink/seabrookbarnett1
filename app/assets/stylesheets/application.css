@@ -1,0 +1,152 @@
+div.header {//height: 80vh;
+  width:100%; background: url('/assets/tech.jpg') no-repeat; background-size: cover; padding: 1 1 1 1; margin: 0 0 0 0; background-position: center center;}
+body, html {
+  font-family: 'Montserrat';
+}
+
+body {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+div.header-banner h2 {
+    text-align: center;
+    margin-top: 10vh;
+    padding-top: 5px;
+    color: white;
+    font-family: 'Montserrat';
+    border-top: 3px solid white;
+    width: 60%;
+}
+div.site-info h2 {
+    float: left;
+    padding-left: 3vw;
+    color: white;
+    font-family: 'Montserrat';
+}
+div.nav ul li {
+  display: inline-block;
+  float: right;
+  padding-right: 3vw;
+  padding-top: 20px;
+  color: white;
+  font-family: 'Montserrat';
+}
+div.main {
+//  min-height: 500px;
+  display: inline-block;
+  width: 0vw;
+  margin-top: 1%;
+  border-bottom: 2px solid lightgray;
+  //max-height: 2000px;
+  //height: auto;
+  overflow: visible;
+}
+div.main-left {
+  width: 40vw;
+  margin-left: 100px;
+  margin-top: 2.5%;
+  float: left;
+  min-height: 1000px;
+}
+div.main-right {
+  width: 20vw;
+  margin-right: 10%;
+  margin-top: 2.5%;
+  float: right;
+  min-height: 1000px;
+}
+div.main-left h1 {
+  font-size: xx-large;
+  overflow-wrap: break-word;
+  color: #5591C3;
+}
+div.headline img {
+  //height: 30px;
+  width: 30px;
+  border-radius: 100%;
+}
+div.paragraph-header {
+ border-left: 3px solid lightgray;
+ padding-left: 10px;
+ color: #5591C3;
+}
+div.sidebar-headline img {
+//height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+a {
+  color: gray;
+  text-decoration: none;
+}
+span.Seabrook {
+  color: #5591C3;
+}
+.Seabrook {
+  color: #5591C3;
+}
+span.ad {
+  color: gray;
+  float: right;
+  padding-right: 10px;
+  padding-top: 35px;
+}
+div.header-banner h1 {
+    text-align: center;
+    margin-top: 35vh;
+    padding-top: 5px;
+    color: white;
+    font-family: 'Montserrat';
+    width: 60%;
+    font-size: 60px;
+}
+h1.footer {
+  color: darkblue;
+  font-family: 'Montserrat';
+  width: 60%;
+  font-size: 60px;
+}
+a.link {
+  color: white;
+  text-decoration: none;
+}
+div.images img {
+  width: 24vw;
+}
+div.images {
+  width: 100vw;
+}
+span.footer-left {
+  float: right;
+  color: white;
+  width: 45vw;
+  padding-top: 15px;
+}
+span.footer-right ul li {
+  display: inline-block;
+  float: right;
+  padding-right: 3vw;
+  color: white;
+  font-family: 'Montserrat';
+  width: 45vw;
+}
+div.footer {
+  height: 150px;
+  background: #5591C3;
+}
+span.footer-left {
+  float: left;
+  color: white;
+  width: 45vw;
+  padding-top: 40px;
+  padding-left: 45px;
+}
+span.footer-right {
+    float: right;
+    padding-right: 45px;
+    padding-top: 40px;
+}
+i.active {
+  padding: 0px;
+  margin: 0px;
+}
